@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Child Adult Logic Dichotomy
+# CALD
 
 You can use the [editor on GitHub](https://github.com/gTimers/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
